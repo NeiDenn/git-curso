@@ -1,0 +1,38 @@
+[33mcommit 17bc986c8cb1305f6f18fe93aee5ea91b2667dea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c1d153b 052457d
+Author: Neiser Dennis <85379478+NeiDenn@users.noreply.github.com>
+Date:   Wed Jan 25 08:08:44 2023 -0500
+
+    Merge pull request #1 from NeiDenn/feature1
+    
+    refactorizacion
+
+[33mcommit 052457d9c0e9012c389bc38d9003ebebe895be64[m[33m ([m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Neiser Dennis <85379478+NeiDenn@users.noreply.github.com>
+Date:   Wed Jan 25 07:59:52 2023 -0500
+
+    refactorizacion
+
+[33mcommit c1d153ba427b9a6a612e93791cdeee9fec8622dc[m[33m ([m[1;31morigin/feature2[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Neiser Dennis <85379478+NeiDenn@users.noreply.github.com>
+Date:   Sun Jan 22 10:23:28 2023 -0500
+
+    Create README.md
+
+[33mcommit d794891e9a27496ab6db37dec1a1fc5cf0436610[m
+Author: neia <neia@gmail.com>
+Date:   Sun Jan 22 09:39:25 2023 -0500
+
+    he agregado un gitignore
+
+[33mcommit 39c378e6e908a2ca2b27539e349f75654e270d0a[m
+Author: neia <neia@gmail.com>
+Date:   Sun Jan 22 09:28:58 2023 -0500
+
+    cambio en el index, un h1 agregado dentro de un div
+
+[33mcommit bd9a3a535bf1591bf26ce1523085ed72c2bdb848[m
+Author: neia <neia@gmail.com>
+Date:   Sun Jan 22 09:16:50 2023 -0500
+
+    mi primer commit ok
